@@ -4,7 +4,7 @@
   In this project I am building a To Do organizer.
 
 ## How to Run:
-  Test it by going to its GitHub pages:
+  Test it by going to its GitHub pages: https://juanmejiac.github.io/To-Do/
 
 ## Roadmap
   This is has the basic functionality of a To Do organizer. We can add the following functionality and features.
